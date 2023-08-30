@@ -1,6 +1,6 @@
 ## Members
-Henry Forsyth, Computer Engineering Student (2024)
-rhforsythjr@vt.edu
+Katherin Marroqui, Cnomputer Engineering Student (2025)
+km300137@vt.edu
 
 ## Repo Link
 <a class="button is-link" href="https://magicmirror.builders/" >https://magicmirror.builders/</a>
