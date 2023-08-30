@@ -1,5 +1,5 @@
 ## Members
-Katherin Marroqui, Cnomputer Engineering Student (2025)
+Katherin Marroquin, Computer Engineering Student (2025)
 km300137@vt.edu
 
 ## Repo Link
